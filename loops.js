@@ -3,7 +3,7 @@ function forLoop(array){
   for(let i = 0; i < 25; i++) {
     if(i === 1) {
         iValue = `"I am ${i} strange loop."`
-         this.array[i].push(iValue)
+         array.push(iValue)
     }else {
       iValue = `"I am ${i} strange loops."`
       array.push(iValue)
