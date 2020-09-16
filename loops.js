@@ -12,4 +12,6 @@ function forLoop(array){
     return array
   }
   
-// AssertionError: expected '"I am 1 strange loop."' to equal 'I am 1 strange loop.'
+function whileLoop(number) {
+  var lo
+}
