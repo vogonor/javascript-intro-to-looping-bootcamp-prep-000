@@ -12,4 +12,4 @@ function forLoop(array){
     return array
   }
   
-//TypeError: Cannot read property '0' of undefined
+// AssertionError: expected '"I am 1 strange loop."' to equal 'I am 1 strange loop.'
