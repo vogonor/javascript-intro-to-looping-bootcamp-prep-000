@@ -13,5 +13,12 @@ function forLoop(array){
   }
   
 function whileLoop(number) {
-  var lo
+   
+   while(number > 0) {
+     
+     console.log(number)
+     if(number===0)
+      console.log("done")
+      number--
+   }
 }
