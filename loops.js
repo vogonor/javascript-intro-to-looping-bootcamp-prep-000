@@ -1,8 +1,7 @@
 function forLoop(array){
-  array = [ ]
   var iValue = ""
   for(let i = 0; i < 25; i++) {
-    if(i===0 || i === 1) {
+    if(i === 1) {
         iValue = `"I am ${i} strange loop."`
          this.array[i].push(iValue)
     }else {
